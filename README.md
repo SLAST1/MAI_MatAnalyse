@@ -1,1 +1,1 @@
-# MAI_MatAnalyse
+# MAI_MathAnalysis
